@@ -1,0 +1,25 @@
+[{
+    "codigo": "12345",
+    "titulo": "O Senhor dos aneis",
+    "duracao": "130 minutos",
+    "atores": "IAN MCKELLEN, ORLANDO BLOOM",
+    "anoDeLancamento": "01/01/2002",
+    "emCartaz": "true"
+},
+{
+    "codigo": "54321",
+    "titulo": "Avatar",
+    "duracao": "162 minutos",
+    "atores": "Sam Worthington, Sigourney Weaver",
+    "anoDeLancamento": "18/12/2009",
+    "emCartaz": "true"
+},
+{
+    "codigo": "222",
+    "titulo": "Cruella",
+    "duracao": "111 minutos",
+    "atores": "Arias, Ricardo",
+    "anoDeLancamento": "18/12/2021",
+    "emCartaz": "false"
+}
+]
